@@ -17,17 +17,20 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 <img align="center" src="https://img.shields.io/badge/Editors-Visual Studio Code -informational?style=flat&logo=visual-studio-code&logoColor=white&color=ae48d4">
 </p>
 
-<!--
-**PedroLandolt/PedroLandolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align = "center" >Projects</h2>
+<p align = "center">
 
-Here are some ideas to get you started:
+| UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
+|------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| FP   | [Pirates](https://github.com/PedroLandolt/Pirates)  | Pirates is a Plataform Game, based on  Mario games, where you need to find the treosure hat to win the game, killing all enemys in your path                                                                                                        | 17.4        |
+| LDTS | [TBL](https://github.com/PedroLandolt/TBL)     | The Binding of Lendêa, a rougue like game, based on the binding of isaac, that consists in a bread trying to fight is way out of a dungeon full with tosters and skulls of past breads           | 18          |
+| AED  | [LeicPlan](https://github.com/PedroLandolt/LeicPlan)     | Leic Student Schedule Management, capable of making requests for changing schedules, controlling the class balance system and used as a data structure analyzer          | 18.55       |
+| AED  | [AirMS](https://github.com/PedroLandolt/AirMS)    | Airline Database Management System in C++ using several datastructures  | 17.85       |
+| DA   | [RailwayMS](https://github.com/PedroLandolt/RailwayMS)  | A travel agency wants to organize routes and connections for its customers in the best possible way                                                           |         |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align = "center" >Contact me:</h2>
+<p align="center">
+<a href="mailto:up202103337@up.pt" >
+  <img align="center" title="Email" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
+</a>
+</p>

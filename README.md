@@ -14,7 +14,7 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 <p align = "center">
 <img align="center" src="https://img.shields.io/badge/Operating%20System-Windows-blue ?style=flat&logo=windows&logoColor=white&color=0398fc">
 <img align="center" src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=fc9d03">
-<img align="center" src="https://img.shields.io/badge/Editors-Visual Studio Code -informational?style=flat&logo=visual-studio-code&logoColor=white&color=0f8058">
+<img align="center" src="https://img.shields.io/badge/Editors-Visual Studio Code -informational?style=flat&logo=visual-studio-code&logoColor=white&color=ae48d4">
 </p>
 
 <!--

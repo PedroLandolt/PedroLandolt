@@ -29,6 +29,7 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 | DA   | [RailwayMS](https://github.com/PedroLandolt/RailwayMS)  | A travel agency wants to organize routes and connections for its customers in the best possible way                                                           | 17.2     |
 | LTW  | [PourProblems](https://github.com/PedroLandolt/PourProblems)  | A website made with the goal to provide a platform for users to share their wine-related experiences and issues                                                           |         |
 | ES   | [TeachMeWell](https://github.com/PedroLandolt/TeachMeWell)  | An app to rate professors from the university of Porto, to help people chose there professors in the beggining of the semester                                                            |  19.3   |
+| LCOM | [DefendTheBase](https://github.com/PedroLandolt/DefendTheBase)  | A tower defense game where we utilize all the I/O devices (Timer, Keyboard, Mouse, RTC, others)                                                            |        |
 
 <h2 align = "center" >Contact me:</h2>
 <p align="center">

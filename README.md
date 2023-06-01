@@ -26,7 +26,7 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 | LDTS | [TBL](https://github.com/PedroLandolt/TBL)     | The Binding of Lendêa, a rougue like game, based on the binding of isaac, that consists in a bread trying to fight is way out of a dungeon full with tosters and skulls of past breads           | 18          |
 | AED  | [LeicPlan](https://github.com/PedroLandolt/LeicPlan)     | Leic Student Schedule Management, capable of making requests for changing schedules, controlling the class balance system and used as a data structure analyzer          | 18.55       |
 | AED  | [AirMS](https://github.com/PedroLandolt/AirMS)    | Airline Database Management System in C++ using several datastructures  | 17.85       |
-| DA   | [RailwayMS](https://github.com/PedroLandolt/RailwayMS)  | A travel agency wants to organize routes and connections for its customers in the best possible way                                                           | 17      |
+| DA   | [RailwayMS](https://github.com/PedroLandolt/RailwayMS)  | A travel agency wants to organize routes and connections for its customers in the best possible way                                                           | 17.2     |
 | LTW  | [PourProblems](https://github.com/PedroLandolt/PourProblems)  | A website made with the goal to provide a platform for users to share their wine-related experiences and issues                                                           |         |
 | ES   | [TeachMeWell](https://github.com/PedroLandolt/TeachMeWell)  | An app to rate professors from the university of Porto, to help people chose there professors in the beggining of the semester                                                            |  19.3   |
 

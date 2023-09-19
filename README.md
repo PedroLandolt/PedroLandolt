@@ -7,7 +7,7 @@
 Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_page.inicial) of the University of Porto at Bachelor's Degree in Informatics and Computing Engineering ([LEIC](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22841&pv_ano_lectivo=2022)).
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLandolt&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLandolt&show_icons=true&theme=onedark&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLandolt&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
@@ -27,9 +27,9 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 | AED  | [LeicPlan](https://github.com/PedroLandolt/LeicPlan)     | Leic Student Schedule Management, capable of making requests for changing schedules, controlling the class balance system and used as a data structure analyzer          | 18.55       |
 | AED  | [AirMS](https://github.com/PedroLandolt/AirMS)    | Airline Database Management System in C++ using several datastructures  | 17.85       |
 | DA   | [RailwayMS](https://github.com/PedroLandolt/RailwayMS)  | A travel agency wants to organize routes and connections for its customers in the best possible way                                                           | 17.2     |
-| LTW  | [PourProblems](https://github.com/PedroLandolt/PourProblems)  | A website made with the goal to provide a platform for users to share their wine-related experiences and issues                                                           |         |
+| LTW  | [PourProblems](https://github.com/PedroLandolt/PourProblems)  | A website made with the goal to provide a platform for users to share their wine-related experiences and issues                                                           | 16.4    |
 | ES   | [TeachMeWell](https://github.com/PedroLandolt/TeachMeWell)  | An app to rate professors from the university of Porto, to help people chose there professors in the beggining of the semester                                                            |  19.3   |
-| LCOM | [DefendTheBase](https://github.com/PedroLandolt/DefendTheBase)  | A tower defense game where we utilize all the I/O devices (Timer, Keyboard, Mouse, RTC, others)                                                            |        |
+| LCOM | [DefendTheBase](https://github.com/PedroLandolt/DefendTheBase)  | A tower defense game where we utilize all the I/O devices (Timer, Keyboard, Mouse, RTC, others)                                                            | 18     |
 
 <h2 align = "center" >Contact me:</h2>
 <p align="center">

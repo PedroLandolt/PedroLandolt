@@ -33,6 +33,7 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 | LCOM | [DefendTheBase](https://github.com/PedroLandolt/DefendTheBase)  | A tower defense game where we utilize all the I/O devices (Timer, Keyboard, Mouse, RTC, others)                                                            | 18     |
 | FSI | [Logbooks](https://github.com/PedroLandolt/FSI)  | This is all my team Logbooks and CTFs made for FSI                                                           | 20     |
 | LBAW | [RedHot](https://github.com/PedroLandolt/RedHot)  | The most Spiciest Online Store you will ever see! Work focus on WebDev and DataBase structs                                                          |      |
+| PFL | [Haskell](https://github.com/PedroLandolt/Coursework-Haskell)  | Doing an Assembler and a Compiler+Parser in Haskell                                                       |      |
 
 <h2 align = "center" >Contact me:</h2>
 <p align="center">

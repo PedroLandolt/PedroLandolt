@@ -32,8 +32,8 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 | ES   | [TeachMeWell](https://github.com/PedroLandolt/TeachMeWell)  | An app to rate professors from the university of Porto, to help people chose there professors in the beggining of the semester                                                            |  19.3   |
 | LCOM | [DefendTheBase](https://github.com/PedroLandolt/DefendTheBase)  | A tower defense game where we utilize all the I/O devices (Timer, Keyboard, Mouse, RTC, others)                                                            | 18     |
 | FSI | [Logbooks](https://github.com/PedroLandolt/FSI)  | This is all my team Logbooks and CTFs made for FSI                                                           | 20     |
-| LBAW | [RedHot](https://github.com/PedroLandolt/RedHot)  | The most Spiciest Online Store you will ever see! Work focus on WebDev and DataBase structs                                                          |      |
-| PFL | [Haskell](https://github.com/PedroLandolt/Coursework-Haskell)  | Doing an Assembler and a Compiler+Parser in Haskell                                                       |      |
+| LBAW | [RedHot](https://github.com/PedroLandolt/RedHot)  | The most Spiciest Online Store you will ever see! Work focus on WebDev and DataBase structs                                                          | 19.5     |
+| PFL | [Haskell](https://github.com/PedroLandolt/Coursework-Haskell)  | Doing an Assembler and a Compiler+Parser in Haskell                                                       |   18.03   |
 
 <h2 align = "center" >Contact me:</h2>
 <p align="center">

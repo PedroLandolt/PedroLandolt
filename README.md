@@ -4,7 +4,7 @@
 </div>
 <br>
 
-Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_page.inicial) of the University of Porto at Bachelor's Degree in Informatics and Computing Engineering ([LEIC](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22841&pv_ano_lectivo=2022)).
+Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_page.inicial) of the University of Porto at Master's Degree in Software Engineering ([MESW](https://fe.up.pt/estudar/mesw/)).
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLandolt&show_icons=true&theme=onedark&include_all_commits=false&count_private=true"/>

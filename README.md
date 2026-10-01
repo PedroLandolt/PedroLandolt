@@ -14,18 +14,39 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/LangChain%2FLangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23%2F.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Security-red?style=flat&logo=hackthebox&logoColor=white">
-</p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/C%23%2F.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white">
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Security-red?style=flat&logo=hackthebox&logoColor=white">
+  </p>
 
 <h2 align="center">Selected Projects</h2>
+
+### Dice Game Backend — iGaming backend in Go · [dice-game](https://github.com/PedroLandolt/dice-game)
+
+  Backend for an even/odd dice game, built as a technical exercise for an iGaming backend role. Players connect over WebSocket (with an HTTP API for automated testing), and the balance lives in a separate wallet, as in
+  the seamless-wallet model used between casinos and game providers. Every bet is idempotent end to end, a wallet timeout triggers a rollback so a result is never shown without the money settled, and the protections
+  are enforced by the database too: 20 concurrent bets for the same player let exactly one through. Ships with Docker Compose, a Postman collection that runs against the full stack in CI, and a partitioned append-only
+  ledger.
+
+  `Go` · `WebSockets` · `PostgreSQL` · `Docker` · `CI`
+  
 
 ### VULMAN — Vulnerability management platform · [vulman](https://github.com/PedroLandolt/vulman)
 
